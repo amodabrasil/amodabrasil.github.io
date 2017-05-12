@@ -4,8 +4,8 @@
 title: À Moda Brasil.
 description: "Personal Chef e Eventos. As tendências da gastronomia contemporânea com a conhecida e tradicional miscelânea de ingredientes e sabores brasileiros."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/amodabrasil.github.io" #important: start with /
-url: "https://amodabrasil.github.io"
+baseurl: "" #important: start with /
+url: "http://amodabrasil.github.io"
 
 # Build settings
 markdown: kramdown
