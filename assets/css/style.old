@@ -1,0 +1,9 @@
+---
+layout: style
+---
+
+{% comment %}
+No diretório de estilos o style.css que tem o comando include parece que não está funcionando. 
+A página por algum motivo não estava carregando (ou gerando) o conteúdo do CSS que está dentro do _include/css/style.css
+Por este motivo coloquei o arquivo de estilo do _include/css/style.css diretamente nesta página
+{% endcomment %}
